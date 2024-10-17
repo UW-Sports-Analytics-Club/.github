@@ -1,4 +1,4 @@
-## Welcome to the UW Sports Analytics Club Repository
+## Welcome to the UW Sports Analytics Club GitHub
 
 <!--
 
